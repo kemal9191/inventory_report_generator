@@ -1,0 +1,147 @@
+{   
+    "Dışadönüklük": {
+        "default":{
+            "düşük":"Bayan X\/Bay X'in dışadönüklüğü düşük seviyededir. Sosyal ortamlara katılma isteği çoğu insana göre daha azdır. Bunun yerine kendi başına kalmayı tercih etmesi olasıdır.", 
+            "orta":"Bayan X\/Bay X'in dışadönüklüğü ortalama seviyededir. Sosyal ortamlara katılma isteği çoğu insanla aynı seviyededir. Yalnız başına yapılan etkinliklerle sosyal ilişki içeren etkinlikleri dengelemesi olasıdır.", 
+            "yüksek": "Bayan X\/Bay X'in dışadönüklüğü yüksek seviyededir. Sosyal ortamlara katılma isteği çoğu insana göre daha fazladır. Yalnız başına yapılan etkinliklerdense sosyal ilişki içeren etkinlikleri tercih etmesi olasıdır."
+            },
+        "Kurallara Uyma":{
+            "düşük":"Toplumsal değerleri, normları ve kuralları sorgulamaya eğilim gösterebilir.", 
+            "orta":"Zaman zaman toplumsal değerleri, normları ve kuralları sorgulamaya eğilim gösterirken, zaman zaman sorgulamadan kabul etme eğilimi gösterir.", 
+            "yüksek":"Toplumsal değerleri, normları ve kuralları sorgulamadan benimsemeye eğilim gösterebilir."
+            },
+        "İçinden Geldiği Gibi Davranma":{
+            "düşük":"Genellikle temkinli ve kontrollü davranma eğilimindedir. Bir davranışta bulunmadan önce sonuçları hakkında düşünmeye yatkındır.", 
+            "orta":"Bazı durumlarda coşkulu ve enerjik olabilirken bazı durumlarda daha sakin bir izlenim bırakabilir.", 
+            "yüksek":"Genellikle coşkulu ve enerjik davranma eğilimindedir. Sonuçlarını düşünmeden davranmaya yatkındır."
+            },
+        "Yakın İlişki Kurma":{
+            "düşük":"Bir gruba dahil olmayı ve diğer kişilerle yakın bağ kurmayı tercih etmeyebilir. Başkalarının istek ve ihtiyaçlarına çok fazla duyarlı olmayabilir.", 
+            "orta":"Zaman zaman bir gruba dahil olma ve diğer kişilerle bağ kurma yönünde eğilim gösterirken zaman zaman bundan kaçınabilir.", 
+            "yüksek":"Diğer kişilerle yakın bağ kurmaya yatkın olabilir. Başkalarının istek ve ihtiyaçlarına çok fazla duyarlı olabilir."
+            },
+        "Girişkenlik\/Ataklık":{
+            "düşük":"Sosyal ortamlarda genellikle sessiz kalmayı tercih edebilir. Uyumlu ve uzlaşmacı biri olarak tanınması olasıdır.", 
+            "orta":"Bazı durumlarda durgun bazı durumlarda ise girişken bir profil çizebilir.", 
+            "yüksek":"Genellikle sosyal ilişkiler içerisinde çekingen görünmez."
+        }
+    },
+    "İlişkilerde Uyumluluk": {
+        "default":{
+            "düşük":"Bayan X\/Bay X'in ilişkilerde uyumluluğu düşük seviyededir. Başkalarının değerlerini ya da kurallarını kabul etme ve bunlara uyma derecesi çoğu insana göre daha düşüktür.", 
+            "orta":"Bayan X\/Bay X'in ilişkilerde uyumluluğu ortalama seviyededir. Başkalarının değerlerini ya da kurallarını kabul etme ve bunlara uyma derecesi çoğu insanla aynı seviyededir.", 
+            "yüksek": "Bayan X\/Bay X'in ilişkilerde uyumluluğu yüksek seviyededir. Başkalarının değerlerini ya da kurallarını kabul etme ve bunlara uyma derecesi çoğu insana göre daha yüksektir."
+            },
+        "Mükemmeliyetçilik":{
+            "düşük":"Rahat ve esnek olma eğilimi gösterir. Planlamak yerine işleri akışına bırakabilir. Kendini sarf ettiği çaba üzerinden değerlendirme eğilimi göstermez.", 
+            "orta":"Bazı durumlarda organize ve özdisiplinli bir profil çizerken, bazen esnek ve rahat davranma eğiliminde olabilir.", 
+            "yüksek":"Organize ve özdisiplinli olma eğilimi gösterir. Kendini sarf ettiği çaba üzerinden değerlendirmeye yatkındır. "
+            },
+        "Duygusal Dayanıklılık":{
+            "düşük":"Problemler karşısında soğukkanlı kalma konusunda başarısız olabilir ve kaygı hissedebilir.", 
+            "orta":"Karşılaştığı problemlere çözüm üretme ve kendi ihtiyaçlarını anlama konusunda başarılı olduğu durumlar olsa da bazı durumlarda bu konuda yetersiz kalabilir.", 
+            "yüksek":"Problemleri gerçekçi bir bakış açısıyla ele alma eğilimi gösterir. Kendi ihtiyaçlarını rahatlıkla kavrayabilir. "
+            },
+        "Kurallara Uyma":{
+            "düşük":"Toplumsal norm ve kuralları sorgulama ve kendi mantık süzgecinden geçenleri benimseme eğilimi gösterir.", 
+            "orta":"Genel anlamda toplumsal norm ve kurallara uysa da bunlar kendi değerleriyle çeliştiği zaman sorgulama eğilimi gösterebilir.", 
+            "yüksek":"Toplumsal norm ve kurallara uyma ve diğer insanlardan da kurallara uymasını bekleme eğilimindedir. "
+            },
+        "Yakın İlişki Kurma":{
+            "düşük":"Kişisel bir alana sahip olmaya ihtiyaç duyabilir. Duygularını ifade etmek konusunda zaman zaman zorlanabilir.", 
+            "orta":"İnsan ilişkilerine karşı ortalama bir ilgi seviyesine sahiptir. Bazı durumlarda insanlarla ilişki kurma eğilimi gösterirken bazı durumlarda ilgisiz kalabilir.", 
+            "yüksek":"Duygularını kolayca ifade edebilir. Duygusal bağ kurma ihtiyacının yüksek olduğu söylenebilir."
+        },
+        "Stres Düzeyi":{
+            "düşük":"Sakin, rahat ve huzurlu olma eğilimi gösterir. Stres yaşadığı durumlarda bile kolayca gevşeyebilir.", 
+            "orta":"Stres hissetme ve gergin olma konusunda ortalama seviyelerde olma eğilimindedir. Stresli durumlar yaşadıktan bir süre sonra gevşemeyi başarabilir.", 
+            "yüksek":"Stresliyken gevşemekte zorlanabilir. Enerjik ve gergin bir görünüm sergileyebilir."
+        }
+    },
+    "Sorumluluk": {
+        "default":{
+            "düşük":"Bayan X\/Bay X'in sorumluluğu düşük seviyededir. Hedef odaklılık ve başarı yönelimlilik gibi özelliklere çoğu insana göre daha düşük seviyede sahiptir.", 
+            "orta":"Bayan X\/Bay X'in sorumluluğu ortalama seviyededir. Hedef odaklılık ve başarı yönelimlilik gibi özelliklere çoğu insanla aynı seviyede sahiptir.", 
+            "yüksek": "Bayan X\/Bay X'in sorumluluğu yüksek seviyededir. Hedef odaklılık ve başarı yönelimlilik  gibi özelliklere çoğu insana göre daha yüksek seviyede sahiptir."
+            },
+        "Davranışları Sorgulama":{
+            "düşük":"Eleştirel ve kuşkucu bir yapısı yoktur. Genellikle insan ilişkilerinde rahat bir izlenim bırakır.", 
+            "orta":"Zaman zaman eleştirel ve kuşkucu bir tavır sergilese de bazı durumlarda sorgulamadan benimseme ve güvenme eğilimi gösterebilir.", 
+            "yüksek":"Eleştirel ve kuşkucu bir yapıya sahip olabilir. Sürekli tetikte olması ve şüpheci yaklaşımı sebebiyle sert çıkışlarda bulunabilir."
+            },
+        "Değişime Açıklık":{
+            "düşük":"Daha önce denenmiş yollardan yürümeyi tercih edebilir. Bu yüzden yeni düşüncelere karşı şüpheyle yaklaşma eğilimi gösterir.", 
+            "orta":"Bazı durumlarda alışılmış sınırlar içerisinde kalmayı tercih ederken bazı durumlarda mevcut olanı sorgulama ve yeni bakış açıları getirme eğilimi gösterir.", 
+            "yüksek":"Yeni düşüncelere açık olma eğilimi gösterir. Alışılmış olanı sorgulayıp yeni bakış açıları getirebilir."
+            },
+        "İlişkileri Yönetme":{
+            "düşük":"Başkalarını yönlendirme ihtiyacı düşüktür. İnsan ilişkilerinde mütevazı, uysal ve yumuşak başlı bir tutumda olabilir. ", 
+            "orta":"Zaman zaman yönlendiren, zaman zaman uyum sağlayan taraf olma eğilimi gösterir.", 
+            "yüksek":"İnsanlarla ilişkilerinde yönlendiren ve hükmeden taraf olma eğilimindedir. Liderlik rolünü üstlenmekten hoşlanabilir."
+            },
+        "Stres Düzeyi":{
+            "düşük":"Yoğun stres yaşamaya eğilimli değildir. Elindekiyle yetinen ve kolay anlaşılır biri olarak görünür. Ancak harekete geçilmesi gereken durumlarda atılması gereken adımı atmakta gecikebilir.", 
+            "orta":"Zaman zaman stres hissedebilir. Bu durum motive olmasına sebep olabilir. Genel olarak stres düzeyi dengelidir.", 
+            "yüksek":"Genellikle enerjik, gergin ve sabırsız bir yapıdadır. Olaylar karşısında kolayca tetiklenebilir."
+        }
+    },
+    "Deneyime Açıklık": {
+        "default":{
+            "düşük":"Bayan X\/Bay X'in deneyime açıklığı düşük seviyededir. Orijinal deneyimlere ve yeni şeyler keşfetmeye çoğu insandan daha düşük seviyede açıktır.", 
+            "orta":"Bayan X\/Bay X'in deneyime açıklığı ortalama seviyededir. Orijinal deneyimlere ve yeni şeyler keşfetmeye çoğu insanla aynı seviyede açıktır.", 
+            "yüksek": "Bayan X\/Bay X'in deneyime açıklığı yüksek seviyededir. Orijinal deneyimlere ve yeni şeyler keşfetmeye çoğu insandan daha yüksek seviyede açıktır."
+            },
+        "Değişime Açıklık":{
+            "düşük":"Daha önce denenmiş yöntemleri kullanmayı tercih edebilir.", 
+            "orta":"Yeni yöntemleri sorgulama ve adapte olma eğilimleri dengededir.", 
+            "yüksek":"Kendisine ters düşen, alışılmış yöntemleri sorgulama eğilimi gösterir."
+            },
+        "Kurallara Uyma":{
+            "düşük":"Toplumun beklentilerini önce analiz ederek kendi mantık süzgecinden geçirir ve kendi değerleri ile örtüşmesi durumunda kabul eder.", 
+            "orta":"Toplumsal kurallara uymadığı durumda yüksek bir suçluluk ya da rahatsızlık hissetmez. Ancak toplumsal kurallara agresif bir şekilde karşı bir tutumla da yaklaşmaz.", 
+            "yüksek":"Toplumsal normlara tümüyle karşı değildir. Bu normlara göre davranmaya yatkınlık gösterebilir."
+            },
+        "Duyguyu Kullanım":{
+            "düşük":"Bir bilgiyi yorumlama ve karar alma aşamalarında somut olana odaklanarak hareket etmeye eğilimlidir. Davranışlarında mantığa önem verir. Duygularını alacağı kararlara karıştırmaz.", 
+            "orta":"Bir bilgiyi yorumlama ve karar alma aşamalarında hem duygulara hem de mantığa önem verme eğilimindedir.", 
+            "yüksek":"Bir bilgiyi yorumlama ve karar alma aşamalarında öznel duygularına göre hareket etmeye eğilimlidir."
+            },
+        "Düşünce Odaklılık":{
+            "düşük":"Sorunlara pratik bir açıdan yaklaşır. Bir işi bütün içerisinde anlamlandırmaktan ziyade bitirmeyi önemseyebilir. Zaman yönetiminin kritik olduğu alanlarda iyi bir performans sergileyebilir.", 
+            "orta":"Sorunlara pratik çözümler bulmak ile soyut konulara odaklanmak arasında bir denge kurması olasıdır.", 
+            "yüksek":"Soyut düşüncelere, teorilere ve yaratıcı düşünceye odaklanma eğilimi gösterir. Yaptığı şeylerde anlam aramaya yatkındır, dolayısıyla bütünsel bir yaklaşım benimseyebilir ve bütün içinde anlamlandıramadığı bir işi yürütmeyi manasız bulabilir."
+        }
+    },
+    "Duygusal Değişkenlik": {
+        "default":{
+            "düşük":"Bayan X\/Bay X'in duygusal değişkenliği düşük seviyededir. Çoğu insana göre daha düşük düzeyde duygu değişimi hissetmeye yatkındır. Duyguları genel anlamda dengededir.", 
+            "orta":"Bayan X\/Bay X'in duygusal değişkenliği ortalama seviyededir. Çoğu insanla aynı düzeyde duygu değişimi hissetmeye yatkındır.", 
+            "yüksek": "Bayan X\/Bay X'in duygusal değişkenliği yüksek seviyededir. Çoğu insana göre daha yüksek düzeyde duygu değişimi hissetmeye yatkındır."
+            },
+        "Stres Düzeyi":{
+            "düşük":"Genellikle aldırmaz bir görünüm sergileyebilir. Olayların negatif yanları üzerine çok fazla düşünmemeye eğilimlidir.",
+            "orta":"Enerjik olma ve sakin olma özellikleri arasında bir denge kurabilir. Zaman zaman enerjik iken, zaman zaman sakin bir profil çizer.", 
+            "yüksek":"Enerjik bir profil çizebilir. Enerjisini doğru kanalize ettiğinde verimli bir performansa dönüştürebilir."
+            },
+        "İlişkileri Yönetme":{
+            "düşük":"Başkalarını yönlendirme ihtiyacı düşük olduğu için ilişkilerde yönlendirilen taraf olabilir. Alttan alan taraf olma eğilimi yüksektir.", 
+            "orta":"Zaman zaman uzlaşmacı ve uyumlu olurken zaman zaman rekabetçi bir profil çizebilir.", 
+            "yüksek":"Kendi isteğine göre hareket etme ve diğerlerini ikna etme ihtiyacı hissetmesi olasıdır. Kendi düşünce ve yöntemlerinin en doğrusu olduğunu düşünebilir."
+            },
+        "Duyguyu Kullanım":{
+            "düşük":"Empati kurmakta, diğerlerinin istek ve ihtiyaçlarını görmekte zorluk yaşayabilir. Somut verilere dayanarak aldığı hızlı kararlar, sert ve hoşgörüsüz bir yapıda algılanmasına sebep olabilir.", 
+            "orta":"Gerektiği durumlarda gerçekliğin hem duygusal hem de mantıksal yanlarını kavrayabilme yetisine sahiptir. Bazı durumlarda duygular onun için önemli olurken bazı durumlarda akla ve mantığa verdiği önem ağır basmaktadır.", 
+            "yüksek":"İhtiyaçlar, duygular, düşünceler onun için önemli olabilir. Hem kendi duygularını hem de başkalarının duygularını yüksek derecede duyumsar ve empati yeteneği gelişmiş bir profil çizebilir."
+            },
+        "Girişkenlik\/Ataklık":{
+            "düşük":"Sosyal ilişkilerin açığa çıkardığı stres kaçınılması gereken bir durumdur. Dolayısıyla toplumsal ilişkiler onu rahatsız hissettirebilir. Bu durum çekingen ve utangaç bir profil çizmesine neden olabilir.", 
+            "orta":"Çekingen olma ve girişken davranma arasında bir denge kurması olasıdır. Bazı durumlarda çekingen bazı durumlarda girişken davranabilir.", 
+            "yüksek":"Sosyal ortamlarda konuşkan ve rahat bir görünüm sergileyebilir. Cesur, macerayı seven, risk almaktan korkmayan biri olduğu söylenebilir."
+        },
+        "Özgüvensizlik":{
+            "düşük":"Kendinden emin olma eğilimi gösterir. İçinde bulunduğu toplulukta etkin bir konumu olabilir.", 
+            "orta":"Zaman zaman kendini sorgulayabilirken, zaman zaman kendinden emin olma eğilimi gösterir.", 
+            "yüksek":"Kendini sorgulama eğilimi gösterir. Olumsuz durumlarda kendi rolünü çok fazla önemseyebilir."
+        }
+    }
+}
